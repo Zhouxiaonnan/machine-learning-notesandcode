@@ -2,6 +2,10 @@
 
 如果觉得对您有帮助，还请帮忙点个star，谢谢各位大佬 ^_^
 
+email：zxndd1996@163.com
+微信：zxn059
+知乎专栏：[舟晓南](https://zhuanlan.zhihu.com/c_1274454587772915712)
+
 
 ## 以下内容为《统计学习方法》第二版学习笔记和复现代码
 
@@ -17,6 +21,8 @@
 ### k近邻（KNN）
 
 - 理论：[k近邻（KNN）模型解读](https://zhuanlan.zhihu.com/p/214165992)
+- 代码：[线性扫描](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/k%E8%BF%91%E9%82%BBKNN/KNN%20-%20%E7%BA%BF%E6%80%A7%E6%89%AB%E6%8F%8F.py)
+- 代码：[带权值的近邻点优化](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/k%E8%BF%91%E9%82%BBKNN/KNN%20-%20%E5%B8%A6%E6%9D%83%E5%80%BC%E7%9A%84%E8%BF%91%E9%82%BB%E7%82%B9%E4%BC%98%E5%8C%96.py)
 
 ### 朴素贝叶斯（Bayes）
 
