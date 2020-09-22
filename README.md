@@ -9,6 +9,10 @@
 
 - 理论：[感知机模型解读](https://zhuanlan.zhihu.com/p/213772724)
 - 理论：[感知机模型的收敛性解读](https://zhuanlan.zhihu.com/p/213905084)
+- 代码：[随机梯度下降法](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E6%84%9F%E7%9F%A5%E6%9C%BAperceptron/%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%A8%A1%E5%9E%8B%20-%20%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.py)
+- 代码：[梯度下降法](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E6%84%9F%E7%9F%A5%E6%9C%BAperceptron/%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%A8%A1%E5%9E%8B%20-%20%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.py)
+- 代码：[adagrad](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E6%84%9F%E7%9F%A5%E6%9C%BAperceptron/%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%A8%A1%E5%9E%8B%20-%20adagrad.py)
+- 代码：[对偶形式](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E6%84%9F%E7%9F%A5%E6%9C%BAperceptron/%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%A8%A1%E5%9E%8B%20-%20%E5%AF%B9%E5%81%B6%E5%BD%A2%E5%BC%8F.py)
 
 ### k近邻（KNN）
 
