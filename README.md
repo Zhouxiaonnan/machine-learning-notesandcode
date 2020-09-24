@@ -30,6 +30,7 @@ email：zxndd1996@163.com
 
 - 理论：[朴素贝叶斯模型解读](https://zhuanlan.zhihu.com/p/215721959)
 - 理论：[朴素贝叶斯之后验概率最大化的含义](https://zhuanlan.zhihu.com/p/215897132)
+- 代码：[贝叶斯估计](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AFBayes/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%20-%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BC%B0%E8%AE%A1.py)
 
 ### 决策树（Decision Tree）
 
