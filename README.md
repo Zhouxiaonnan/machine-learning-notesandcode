@@ -44,6 +44,10 @@ email：zxndd1996@163.com
 - 理论：[逻辑斯蒂回归解析](https://zhuanlan.zhihu.com/p/231627246)
 - 理论：[最大熵模型解析](https://zhuanlan.zhihu.com/p/234442747)
 - 理论：[改进的迭代尺度法IIS解析](https://zhuanlan.zhihu.com/p/234553402)
+- 代码：[随机梯度下降法](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92Logistic%20Regression/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%20-%20%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.py)
+- 代码：[SGDM](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92Logistic%20Regression/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%20-%20SGDM.py)
+- 代码：[RMSProp](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92Logistic%20Regression/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%20-%20RMSProp.py)
+- 代码：[Adam](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92Logistic%20Regression/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%20-%20Adam.py)
 
 ### 支持向量机（SVM）
 
