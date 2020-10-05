@@ -55,6 +55,7 @@ email：zxndd1996@163.com
 - 理论：[线性支持向量机解析](https://zhuanlan.zhihu.com/p/237540358)
 - 理论：[非线性支持向量机解析](https://zhuanlan.zhihu.com/p/240659581)
 - 理论：[序列最小最优化算法（SMO）解析](https://zhuanlan.zhihu.com/p/248862271)
+- 代码：[支持向量机 - SMO - 高斯核函数](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BASVM/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%20-%20SMO%20-%20%E9%AB%98%E6%96%AF%E6%A0%B8%E5%87%BD%E6%95%B0.py)
 
 ### 提升算法（Boosting）
 
