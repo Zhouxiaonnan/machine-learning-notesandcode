@@ -61,6 +61,7 @@ email：zxndd1996@163.com
 
 - 理论：[提升算法Adaboost解析](https://zhuanlan.zhihu.com/p/250458152)
 - 理论：[提升树算法解析](https://zhuanlan.zhihu.com/p/252398216)
+- 代码：[提升树](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E6%8F%90%E5%8D%87%E6%A0%91Boosting%20Tree/Adaboost.py)
 
 ### EM算法
 
