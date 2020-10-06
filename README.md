@@ -66,3 +66,5 @@ email：zxndd1996@163.com
 ### EM算法
 
 - 理论：[EM算法解析](https://zhuanlan.zhihu.com/p/254871111)
+- 理论：[高斯混合模型的EM算法解析](https://zhuanlan.zhihu.com/p/262243267)
+- 代码：[EM算法 - 高斯混合模型](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/EM%E7%AE%97%E6%B3%95/EM%E7%AE%97%E6%B3%95.py)
