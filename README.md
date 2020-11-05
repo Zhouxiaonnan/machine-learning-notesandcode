@@ -8,6 +8,9 @@ email：zxndd1996@163.com
 
 知乎专栏：[舟晓南](https://zhuanlan.zhihu.com/c_1274454587772915712)
 
+## 目录
+- 《统计学习方法》学习笔记及复现代码
+- 《tensorflow2.0》学习笔记及代码
 
 ## 以下内容为《统计学习方法》第二版学习笔记和复现代码
 
@@ -44,6 +47,7 @@ email：zxndd1996@163.com
 - 理论：[逻辑斯蒂回归解析](https://zhuanlan.zhihu.com/p/231627246)
 - 理论：[最大熵模型解析](https://zhuanlan.zhihu.com/p/234442747)
 - 理论：[改进的迭代尺度法IIS解析](https://zhuanlan.zhihu.com/p/234553402)
+- 理论：[改进的迭代尺度法(IIS)中f#(x,y)的意义](https://zhuanlan.zhihu.com/p/265299086)
 - 代码：[随机梯度下降法](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92Logistic%20Regression/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%20-%20%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.py)
 - 代码：[SGDM](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92Logistic%20Regression/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%20-%20SGDM.py)
 - 代码：[RMSProp](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92Logistic%20Regression/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%20-%20RMSProp.py)
@@ -68,3 +72,43 @@ email：zxndd1996@163.com
 - 理论：[EM算法解析](https://zhuanlan.zhihu.com/p/254871111)
 - 理论：[高斯混合模型的EM算法解析](https://zhuanlan.zhihu.com/p/262243267)
 - 代码：[EM算法 - 高斯混合模型](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/EM%E7%AE%97%E6%B3%95/EM%E7%AE%97%E6%B3%95.py)
+
+### 隐马尔可夫模型
+
+- 理论：[隐马尔可夫模型解析](https://zhuanlan.zhihu.com/p/263493585)
+
+### 条件随机场模型
+
+- 理论：[条件随机场模型解析](https://zhuanlan.zhihu.com/p/265341256)
+
+### 聚类方法
+
+- 理论：[层次聚类，k均值模型](https://zhuanlan.zhihu.com/p/266163764)
+
+### 奇异值分解(SVD)
+
+- 理论：[奇异值分解](https://zhuanlan.zhihu.com/p/266554196)
+
+### 主成分分析(PCA)
+
+- 理论：[主成分分析](https://zhuanlan.zhihu.com/p/269204488)
+
+### 潜在语义分析(LSA)
+
+- 理论：[潜在语义分析](https://zhuanlan.zhihu.com/p/270553039)
+
+### 概率潜在语义分析(PLSA)
+
+- 理论：[概率潜在语义分析](https://zhuanlan.zhihu.com/p/270889121)
+
+### 马尔可夫链蒙特卡罗法(MCMC)
+
+- 理论：[马尔可夫链蒙特卡罗法](https://zhuanlan.zhihu.com/p/271682379)
+
+----------
+## 《tensorflow》学习笔记及代码
+
+- [tensorflow2.0的特点](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/tensorflow/tensorflow2.0%20-%20tensorflow2.0%E7%9A%84%E7%89%B9%E7%82%B9.ipynb)
+- [tensorflow2.0 - 基础1 - 创建和数据类型及其应用](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/tensorflow/tensorflow2.0%20-%20%E5%9F%BA%E7%A1%801%20-%20%E5%88%9B%E5%BB%BA%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.ipynb)
+- [tensorflow2.0 - 基础2 - 索引切片;维度转换;数学运算](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/tensorflow/tensorflow2.0%20-%20%E5%9F%BA%E7%A1%802%20-%20%E7%B4%A2%E5%BC%95%E5%88%87%E7%89%87%3B%E7%BB%B4%E5%BA%A6%E8%BD%AC%E6%8D%A2%3B%E6%95%B0%E5%AD%A6%E8%BF%90%E7%AE%97.ipynb)
+- [tensorflow2.0 - 神经网络构建的一般步骤](https://github.com/Zhouxiaonnan/machine-learning-notesandcode/blob/master/tensorflow/tensorflow2.0%20-%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E6%9E%84%E5%BB%BA%E7%9A%84%E4%B8%80%E8%88%AC%E6%AD%A5%E9%AA%A4.ipynb)
